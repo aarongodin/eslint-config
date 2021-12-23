@@ -38,7 +38,6 @@ Modify `package.json` to add the following property:
 
 ```json
 {
-  ...
   "prettier": "@aarongodin/eslint-config/prettier.json"
 }
 ```
