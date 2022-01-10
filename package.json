@@ -4,7 +4,7 @@
   "description": "Personal eslint config",
   "main": "index.js",
   "author": "Aaron Godin <godinaaweb@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": false,
   "files": [
     "index.js",

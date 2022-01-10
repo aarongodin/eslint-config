@@ -53,3 +53,11 @@ You may need to restart your editor for the eslint configuration to be used. Thi
   }
 }
 ```
+
+## Making your own
+
+If you want to convert this into your own personal style, first Fork the repository through GitHub (or simply clone this repo to push somewhere else). After you clone the repository, follow these steps:
+
+1. Change the `name` of the package in `package.json`. I recommend using your GitHub username as the namespace (characters after the `@` symbol).
+2. Find and replace references to my username (`aarongodin`) with your own username.
+3. Push changes to your remote, and follow your own Readme! If you have pushed the repo to a location other than GitHub, additional steps will be required to install from the location of that git repository. Refer to the npm docs on how to specify a git repository.
